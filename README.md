@@ -3,8 +3,8 @@
  	 	
 # *Attributions:*
 The 3D printed box is based on this (great!) youtube video from Product Design Online:
-https://www.youtube.com/watch?v=gzF2QgMh6nw&list=PLtzdie_PNqeNMxf4gY46aYa_dY9ZgmEFS&index=41&t=525s
-The video guides you through how to create a print-in-place. parameterized box with hinges.
+https://youtu.be/gzF2QgMh6nw 
+The video guides you through how to create a print-in-place parameterized box with hinges.
 
 ## *Description:*
 A 3D-printed box, with NeoPixel LEDs that plays an mp3 file
