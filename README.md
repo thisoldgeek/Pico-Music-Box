@@ -15,7 +15,7 @@ See the posting at:
 
 ## *Required Hardware:*
 * raspberry pi pico
-* Adafruit MAX8357A Mono Amplifier - https://www.adafruit.com/product/3006
+* Adafruit MAX98357A Mono Amplifier - https://www.adafruit.com/product/3006
 * Small speaker, 39mm or 28mm (or can be custom sized with Fusion 360 files)
 * (Optional) Adafruit Neopixel Stick - https://www.adafruit.com/product/1426
 * 100 Ohm Resistor to lower gain on Amp
