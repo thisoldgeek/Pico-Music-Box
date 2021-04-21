@@ -33,7 +33,7 @@ See the posting at:
 Intentionally blank
 
 ## *More Information:*
-See the build log at [PLACEHOLDER https://www.hackster.io/thisoldgeek/]
+See the build log at https://www.hackster.io/thisoldgeek/pico-portal-music-box-5a7b93
 ## *Update 04-19-2021:*
 Initial install.
 
